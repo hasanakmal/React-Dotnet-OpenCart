@@ -1,3 +1,3 @@
 # React-Dotnet-OpenCart
 This Project is developed using React 17 and .NetCore 7 and SQLite
-Author :Muhammad Hasan Azez
+Author :Muhammad Hasan Azez.
